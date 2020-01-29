@@ -26,7 +26,7 @@ I hope these scripts can help students to enter research on geophysical inversio
 <img src="https://github.com/mheriyanto/MH2DGRAV/blob/master/forward/noise%2010%25/horizontal%20model/Plot%20forward%20of%20horizontal%20model.png" width="70%">
 </p>
 
-+ **Data with 10% noise by horizontal model**
++ **Data with 10% noise by vertical model**
 
 <p align="center">
 <img src="https://github.com/mheriyanto/MH2DGRAV/blob/master/forward/noise%2010%25/vertical%20model/Plot%20forward%20of%20vertical%20model.png" width="70%">
