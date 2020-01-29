@@ -13,6 +13,25 @@ These were scripts that were used to implement our proceeding paper: W. Srigutom
 
 I hope these scripts can help students to enter research on geophysical inversion. Any updates about these scripts can be seen in [my blog](https://mheriyanto.wordpress.com/mh2dgrav/).
 
+<ins>**Forward result**</ins>
++ **Kernel Matrix for forward modeling**
+
+<p align="center">
+<img src="https://github.com/mheriyanto/MH2DGRAV/blob/master/forward/noise%2010%25/horizontal%20model/Matrix%20A%20Plot.png" width="70%">
+</p>
+
++ **Data with 10% noise by horizontal model**
+
+<p align="center">
+<img src="https://github.com/mheriyanto/MH2DGRAV/blob/master/forward/noise%2010%25/horizontal%20model/Plot%20forward%20of%20horizontal%20model.png" width="70%">
+</p>
+
++ **Data with 10% noise by horizontal model**
+
+<p align="center">
+<img src="https://github.com/mheriyanto/MH2DGRAV/blob/master/forward/noise%2010%25/vertical%20model/Plot%20forward%20of%20vertical%20model.png" width="70%">
+</p>
+
 ## License
 MH2DGRAV is released under the MIT License (refer to the [LICENSE](https://github.com/mheriyanto/MH2DGRAV/blob/master/LICENSE) file for details).
 
