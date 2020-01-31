@@ -32,6 +32,8 @@ I hope these scripts can help students to enter research on geophysical inversio
 <img src="https://github.com/mheriyanto/MH2DGRAV/blob/master/forward/noise%2010%25/vertical%20model/Plot%20forward%20of%20vertical%20model.png" width="70%">
 </p>
 
+<ins>**Inversion result**</ins>
+
 ## License
 MH2DGRAV is released under the MIT License (refer to the [LICENSE](https://github.com/mheriyanto/MH2DGRAV/blob/master/LICENSE) file for details).
 
