@@ -156,7 +156,6 @@ error = norm(dGcal-dGobs);
 while (error > tol)
     for (j=1:nv)
       
-      % model perturbasi
       %====================== OTHER CONSTRAIN ============================%%
       %%======================== Spesific Random ============================%%
       for i = 1:nz       
