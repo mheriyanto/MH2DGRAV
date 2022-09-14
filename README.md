@@ -63,8 +63,9 @@ MH2DGRAV is released under the MIT License (refer to the [LICENSE](https://githu
 
 ## Citation
 If you find this project useful for your research, please use the following BibTeX entry.
-    
-    @article{srigutomo2019gravity,
+
+```BibTeX
+@article{srigutomo2019gravity,
     title={Gravity Inversion of Talwani Model using Very Fast Simulated Annealing},
     author={Srigutomo, Wahyu and Heriyanto, Mohammad and Aufa, Muhamad Hilmi},
     journal={Journal of Mathematical and Fundamental Sciences},
@@ -72,4 +73,5 @@ If you find this project useful for your research, please use the following BibT
     number={2},
     pages={177--190},
     year={2019}
-    }
+}
+```
